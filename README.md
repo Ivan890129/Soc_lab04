@@ -23,9 +23,10 @@ $ source ~/.bashrc
 cd ~/lab-exmem_fir/testbench/counter_la_fir
 source run_clean
 source run_sim
+gtkwave
 ```
 
- "gtkwave" (.vcd)
+ "gtkwave" 讀(.vcd)
 
 
 
