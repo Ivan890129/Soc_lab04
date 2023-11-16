@@ -17,11 +17,12 @@ $ sudo tar -xzf /tmp/riscv32-unknown-elf.gcc-12.1.0.tar.gz -C /opt/riscv
 $ echo 'export PATH=$PATH:/opt/riscv/bin' >> ~/.bashrc
 $ source ~/.bashrc
 ```
-
-source run_sim
+## 跑模擬 
+1./lab-exmem_fir/testbench/counter_la_fir/
+2.source run_sim
 
 source run_clean
 
-gtkwave (.vcd)
+3.gtkwave (.vcd)
 
 
