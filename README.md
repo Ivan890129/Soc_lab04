@@ -19,9 +19,11 @@ $ source ~/.bashrc
 ```
 ## 跑模擬
 
-cd ~/caravel-soc_fpga-lab/lab-exmem-fir/testbench/counter_la_fir
+```sh 4-1
+cd ~/lab-exmem-fir/testbench/counter_la_fir
 source run_clean
 source run_sim
+```
 
  "gtkwave" (.vcd)
 
