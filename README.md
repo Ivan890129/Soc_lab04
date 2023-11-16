@@ -18,12 +18,12 @@ $ echo 'export PATH=$PATH:/opt/riscv/bin' >> ~/.bashrc
 $ source ~/.bashrc
 ```
 ## 跑模擬 
-1./lab-exmem_fir/testbench/counter_la_fir/
+1. /lab-exmem_fir/testbench/counter_la_fir/
 
-2.source run_sim
+2. "source run_sim"
 
-source run_clean
+ "source run_clean"
 
-3.gtkwave (.vcd)
+3. "gtkwave" (.vcd)
 
 
