@@ -22,8 +22,8 @@ $ source ~/.bashrc
 
 2. "source run_sim"
 
- "source run_clean"
-
 3. "gtkwave" (.vcd)
+
+   "source run_clean"
 
 
