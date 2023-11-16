@@ -20,7 +20,7 @@ $ source ~/.bashrc
 ## 跑模擬
 
 ```sh 4-1
-cd ~/lab-exmem-fir/testbench/counter_la_fir
+cd ~/lab-exmem_fir/testbench/counter_la_fir
 source run_clean
 source run_sim
 ```
